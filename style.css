@@ -1,0 +1,17 @@
+body{
+background-image: radial-gradient(#fcb3eb, #d6b3fc, #b3dffc);
+}
+
+#myCarousel{
+background-color: #76B9F3;
+}
+
+img{
+height: 50%;
+width: 20%;
+}
+
+h4{
+color: floralwhite;
+opacity: 100%;
+}
